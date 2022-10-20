@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Coding, Sharing, Collaborating :sparkles: :sparkles: 
 <!--
 **vedamruta/vedamruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
