@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm highly inquisitive when it comes to learning :)
 - 🦋 I love Music, Yoga and Reading in nature (⁠◕⁠ᴗ⁠◕⁠✿⁠)
-<br>
+
 ![Vedamruta's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedamruta&theme=omni&show_icons=true)
 <!--START_SECTION:activity-->
