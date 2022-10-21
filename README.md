@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript.<!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about HTML, CSS and Java.
-- 📫 How to reach me: [Twitter](https://twitter.com/Vedamruta_U?t=TUGmHev7btD3jeYPGkt_9Q&s=09)
+- 📫 How to reach me: [Twitter](https://twitter.com/Vedamruta_U?t=TUGmHev7btD3jeYPGkt_9Q&s=09) and [LinkedIn](https://www.linkedin.com/in/vedamruta-udavant-0b993411b)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm highly inquisitive when it comes to learning :)
 - 🦋 I love Music, Yoga and Reading in nature (⁠◕⁠ᴗ⁠◕⁠✿⁠)
