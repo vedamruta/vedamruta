@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm highly inquisitive when it comes to learning :)
 - 🦋 I love Music, Yoga and Reading in nature (⁠◕⁠ᴗ⁠◕⁠✿⁠)
+<!--START_SECTION:activity-->
