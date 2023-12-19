@@ -5,10 +5,11 @@ Coding, Sharing, Collaborating :sparkles: :sparkles:
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on CSS Projects.
-- 🌱 I’m currently learning Javascript.<!--- 👯 I’m looking to collaborate on ...-->
+- 🔭 I’m currently working on ReactJS and JS Projects.
+- 🌱 I’m currently learning ReactJS.<!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about HTML, CSS and Java.
+- 📄 My portfolio [website](https://vedamruta.github.io/Vedamruta-Portfolio/)
 - 📫 How to reach me: [Twitter](https://twitter.com/Vedamruta_U?t=TUGmHev7btD3jeYPGkt_9Q&s=09) and [LinkedIn](https://www.linkedin.com/in/vedamruta-udavant-0b993411b)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm highly inquisitive when it comes to learning :)
